@@ -57,8 +57,8 @@ I work where **data engineering, applied AI, backend systems, and product develo
 | [DocuMind](https://github.com/Abdul-Hadi-Jalil/DocuMind) | AI document workspace with conversational document intelligence, OCR, and supporting Python services | Flutter · AI · Full stack |
 | [AquaScope](https://github.com/Abdul-Hadi-Jalil/AquaScope) | Multi-source cloud data integration architecture with configurable ingestion, transformation, validation, and delivery | Data engineering · Cloud |
 | [C60](https://github.com/Abdul-Hadi-Jalil/C60) | Governed Azure ingestion and analytical warehouse architecture for commerce reporting | Azure · Data warehouse |
-| [Dough](https://github.com/Abdul-Hadi-Jalil/Dough) | Operations automation connecting work-management data, cloud storage, and planning documents | Python · Automation |
-| [Upwork](https://github.com/Abdul-Hadi-Jalil/Upwork) | Opportunity intelligence pipeline for collection, enrichment, matching, proposal workflows, and monitoring | Data pipelines · AI |
+| [Operations Document Automation](https://github.com/Abdul-Hadi-Jalil/operations-document-automation) | Operations automation connecting work-management data, cloud storage, and planning documents | Python · Automation |
+| [Freelance Opportunity Intelligence](https://github.com/Abdul-Hadi-Jalil/freelance-opportunity-intelligence) | Opportunity intelligence pipeline for collection, enrichment, matching, proposal workflows, and monitoring | Data pipelines · AI |
 
 ## Engineering approach
 
