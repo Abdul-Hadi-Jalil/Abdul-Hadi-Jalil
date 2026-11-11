@@ -6,7 +6,7 @@
 
 I design and build data platforms, intelligent automation, machine-learning systems, and polished cross-platform products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-6C63FF?style=for-the-badge)](https://github.com/Abdul-Hadi-Jalil/abdul-hadi-jalil-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-6C63FF?style=for-the-badge)](https://abdul-hadi-jalil.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulhadijalil/)
 [![Repositories](https://img.shields.io/badge/GitHub-Explore_projects-181717?style=for-the-badge&logo=github)](https://github.com/Abdul-Hadi-Jalil?tab=repositories)
 
