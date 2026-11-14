@@ -46,8 +46,6 @@ I work where **data engineering, applied AI, backend systems, and product develo
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111218)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111218)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ## Featured work
 
@@ -55,8 +53,8 @@ I work where **data engineering, applied AI, backend systems, and product develo
 |---|---|---|
 | [Autistic Spectrum Disorder](https://github.com/Abdul-Hadi-Jalil/Autistic-Spectrum-Disorder) | Screening workflow combining Flutter, FastAPI, Firebase, Random Forest inference, and SHAP explanations | Flutter · ML · Python |
 | [DocuMind](https://github.com/Abdul-Hadi-Jalil/DocuMind) | AI document workspace with conversational document intelligence, OCR, and supporting Python services | Flutter · AI · Full stack |
-| [AquaScope](https://github.com/Abdul-Hadi-Jalil/AquaScope) | Multi-source cloud data integration architecture with configurable ingestion, transformation, validation, and delivery | Data engineering · Cloud |
-| [C60](https://github.com/Abdul-Hadi-Jalil/C60) | Governed Azure ingestion and analytical warehouse architecture for commerce reporting | Azure · Data warehouse |
+| [Cloud Data Integration Platform](https://github.com/Abdul-Hadi-Jalil/cloud-data-integration-platform) | Multi-source cloud data integration architecture with configurable ingestion, transformation, validation, and delivery | Data engineering · Cloud |
+| [Azure Data Warehouse Platform](https://github.com/Abdul-Hadi-Jalil/azure-data-warehouse-platform) | Governed Azure ingestion and analytical warehouse architecture for commerce reporting | Azure · Data warehouse |
 | [Operations Document Automation](https://github.com/Abdul-Hadi-Jalil/operations-document-automation) | Operations automation connecting work-management data, cloud storage, and planning documents | Python · Automation |
 | [Freelance Opportunity Intelligence](https://github.com/Abdul-Hadi-Jalil/freelance-opportunity-intelligence) | Opportunity intelligence pipeline for collection, enrichment, matching, proposal workflows, and monitoring | Data pipelines · AI |
 
